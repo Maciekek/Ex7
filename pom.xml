@@ -14,10 +14,6 @@
 	<name>Ex7</name>
 	<description>Bookcase - simple web application with Spring Boot</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
